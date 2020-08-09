@@ -1,7 +1,7 @@
 # Extende Batterium 
 
 
-New plasmoid (not new just modified lol!) for battery and brightness
+New plasmoid  for battery and brightness
 
 ![Battery ScreenShort](/shorts/battery.png)
 
