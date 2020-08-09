@@ -1,0 +1,28 @@
+[Desktop Entry]
+Name=Extende-Batterium
+
+Comment=See the power status of your battery
+
+Keywords=Power Management;Battery;System;Energy;
+
+Icon=battery
+Type=Service
+X-KDE-ServiceTypes=Plasma/Applet
+
+X-Plasma-API=declarativeappletscript
+
+X-Plasma-MainScript=ui/batterymonitor.qml
+X-Plasma-NotificationArea=true
+X-Plasma-NotificationAreaCategory=Hardware
+X-Plasma-Provides=org.kde.plasma.powermanagement
+
+X-KDE-PluginInfo-Author=Sebastian Kügler, Kai Uwe Broulik Modified By Robert Devasia
+X-KDE-PluginInfo-Category=System Information
+X-KDE-PluginInfo-Email=sebas@kde.org, kde@privat.broulik.de,robertdevasia64@gmail.com
+X-KDE-PluginInfo-License=GPL-2.0+
+X-KDE-PluginInfo-Name=extende-batterium
+X-KDE-PluginInfo-Version=3.0
+X-KDE-PluginInfo-Website=https://vizzzion.org
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-DBusActivationService=org.kde.Solid.PowerManagement
