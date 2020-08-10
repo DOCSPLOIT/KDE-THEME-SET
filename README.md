@@ -38,3 +38,6 @@ A Latte layout made for kde
  <li>Event Calendar</li>
  <li>Kpple Menu</li>
 </ul>
+#Kpple Modified
+Kpple menu currently facing issue with visbility of separator.But this version fixed that problem
+![KppleScreen](/shorts/kpple.png)
