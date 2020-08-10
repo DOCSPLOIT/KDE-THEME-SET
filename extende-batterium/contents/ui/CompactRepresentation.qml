@@ -68,7 +68,7 @@ MouseArea {
                     pluggedIn: batteryContainer.pluggedIn
                     height: isConstrained ? batteryContainer.iconSize : batteryContainer.iconSize - batteryLabel.height
                     width: height
-                    opacity:0.8
+                    
                     
                 }
 
